@@ -205,16 +205,6 @@ python -m PyInstaller --onefile --noconsole Bot_Control_Computer.py
 
 ---
 
-### 💰 Support This Project
-
-If you find this project useful, consider supporting the developer:
-
-- **Bank**: `1039506134` | LE PHI ANH | Vietcombank
-- **MoMo**: `0971390849` | LE PHI ANH
-- **Metamask**: `0x928F8c5443b13f71a4d7094E8bD2E74c86127243`
-
----
-
 <p align="center">
   Made with ❤️ by <a href="https://github.com/LePhiAnhDev" target="_blank">LePhiAnhDev</a>
 </p>
